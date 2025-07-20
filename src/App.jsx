@@ -1,8 +1,14 @@
 import { useState } from "react";
 import {creamos, diseniamos, logoDesktop, enseniamos, ideamos, logoMovile, mail, mainImage, tiendanube, wppIcon, menu, imageDesktop, mancha} from './assets/index.jsx'
-
+import useSEO from './hooks/useSEO';
+import SEOSchema from './components/SEOSchema';
 
 import "./App.css";
+
+  useSEO({
+    title: "Belmul - Diseño Web | Transformamos ideas en sitios web que venden",
+    description: "Especialistas en diseño web y marketing digital en Buenos Aires..."
+  });
 
 function App() {
   const [display, setDisplay] = useState(false);
@@ -14,6 +20,7 @@ function App() {
 
   return (
     <>
+          <SEOSchema />
     <div className="flex justify-between p-5 md:hidden">
       <button onClick={handleDisplay}><img src={menu} alt="menu" /></button>
       <img src={logoMovile} alt="" />
