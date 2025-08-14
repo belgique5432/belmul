@@ -1,0 +1,10 @@
+# robots.txt para Belmul
+
+User-agent: *
+Disallow:
+
+# Permitir el rastreo de todos los recursos y páginas
+Allow: /
+
+# Sitemap (si tienes uno, cambia la URL)
+Sitemap: https://www.belmul.com/sitemap.xml
