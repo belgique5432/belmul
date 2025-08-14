@@ -1,0 +1,88 @@
+<<<<<<< HEAD
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+<url>
+  <loc>https://www.belmul.com/</loc>
+  <lastmod>2025-07-20T17:23:23+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>1.0</priority>
+</url>
+
+<url>
+  <loc>https://www.belmul.com/#servicios</loc>
+  <lastmod>2025-07-20T17:23:23+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.8</priority>
+</url>
+
+<url>
+  <loc>https://www.belmul.com/#proyectos</loc>
+  <lastmod>2025-07-20T17:23:23+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.8</priority>
+</url>
+
+<url>
+  <loc>https://www.belmul.com/#nosotros</loc>
+  <lastmod>2025-07-20T17:23:23+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.7</priority>
+</url>
+
+<url>
+  <loc>https://www.belmul.com/#contacto</loc>
+  <lastmod>2025-07-20T17:23:23+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.7</priority>
+</url>
+
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+<url>
+  <loc>https://www.belmul.com/</loc>
+  <lastmod>2025-07-20T17:23:23+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>1.0</priority>
+</url>
+
+<url>
+  <loc>https://www.belmul.com/#servicios</loc>
+  <lastmod>2025-07-20T17:23:23+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.8</priority>
+</url>
+
+<url>
+  <loc>https://www.belmul.com/#proyectos</loc>
+  <lastmod>2025-07-20T17:23:23+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.8</priority>
+</url>
+
+<url>
+  <loc>https://www.belmul.com/#nosotros</loc>
+  <lastmod>2025-07-20T17:23:23+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.7</priority>
+</url>
+
+<url>
+  <loc>https://www.belmul.com/#contacto</loc>
+  <lastmod>2025-07-20T17:23:23+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.7</priority>
+</url>
+
+>>>>>>> 481e0f7e6ce9c6b595bc36d9071570d183fae789
+</urlset>
